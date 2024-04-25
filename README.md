@@ -8,7 +8,7 @@ Email Spam Checker is a tool designed to detect and filter spam in emails. It ut
 + Analyzes various features of emails to make determinations.
 + Ability to train the model with new data to improve accuracy.
 
-## How to Use\
+## How to Use
 
 1. Clone this repository to your local environment:
 ```
